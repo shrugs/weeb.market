@@ -21,7 +21,7 @@ function Robes({ Component, pageProps }) {
           rel="stylesheet"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content="@worm_emoji" />
+        <meta name="twitter:creator" content="@1ofthemanymatts" />
         <meta property="og:url" content="https://weeb.market" />
         <meta property="og:title" content="weeb.market" />
         <link rel="icon" type="image/png" href="/favicon.png" />
@@ -29,7 +29,6 @@ function Robes({ Component, pageProps }) {
           property="og:description"
           content="See the floor price of Katanas from the Loot project."
         />
-        <meta property="og:image" content="https://weeb.market/og.png" />
       </Head>
     </>
   )

@@ -38,7 +38,7 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
           >
             worm_emoji
           </a>
-          . weeb.market by{' '}
+          . weeb.market and <a target="_blank" href="https://ofthefox.market" className="underline">ofthefox.market</a> by{' '}
           <a
             target="_blank"
             href="https://twitter.com/1ofthemanymatts"
