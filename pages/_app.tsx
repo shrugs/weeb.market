@@ -29,6 +29,7 @@ function Robes({ Component, pageProps }) {
           property="og:description"
           content="See the floor price of Katanas from the Loot project."
         />
+        <meta property="og:image" content="https://weeb.market/og.jpg" />
       </Head>
     </>
   )
